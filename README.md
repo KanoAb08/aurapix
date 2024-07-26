@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="https://cloud.appwrite.io/v1/storage/buckets/6676a01a000f5c5a00a3/files/66a292ff0035dc49bf78/preview?width=2000&height=2000&gravity=top&quality=100&project=66752c48000f6dfc1085" alt="Project Banner">
+      <img src="https://cloud.appwrite.io/v1/storage/buckets/6676a01a000f5c5a00a3/files/66a3d7430026f41522d1/view?project=66752c48000f6dfc1085&mode=admin" alt="Project Banner">
   <br />
 
   <h3 align="center">AuraPix : A Social Media Application</h3>
