@@ -1,15 +1,7 @@
 <div align="center">
   <br />
-      <img src="https://github.com/KanoAb08/aurapix/Aurapix.png" alt="Project Banner">
+      <img src="https://cloud.appwrite.io/v1/storage/buckets/6676a01a000f5c5a00a3/files/66a292ff0035dc49bf78/preview?width=2000&height=2000&gravity=top&quality=100&project=66752c48000f6dfc1085" alt="Project Banner">
   <br />
-
-  <div>
-    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-    <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-    <img src="https://img.shields.io/badge/-React_Query-black?style=for-the-badge&logoColor=white&logo=reactquery&color=FF4154" alt="reactquery" />
-    <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" alt="javascript" />
-  </div>
 
   <h3 align="center">AuraPix : A Social Media Application</h3>
 </div>
