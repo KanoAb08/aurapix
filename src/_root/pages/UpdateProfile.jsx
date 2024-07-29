@@ -216,8 +216,7 @@ const UpdateProfile = () => {
                 className="shad-button_primary whitespace-nowrap"
                 disabled={isUpdating}
               >
-                Update Profile
-                {isUpdating && <Loader />}
+                {isUpdating? "Updating...": "Update Profile"}
               </Button>
             </div>
           </form>
