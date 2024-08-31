@@ -27,7 +27,7 @@ const Profile = () => {
   
   const { data: currentUser, isLoading: isUserLoading } = useGetUserById(id || "");
   const { data: followers, isLoading: isFollowersLoading } = useTotalFollowers(currentUser?.$id || "");
-  const { data: followings, isLoading: isFollowingsLoading } = useTotalFollowing(user.id);
+  const { data: followings, isLoading: isFollowingsLoading } = useTotalFollowing(currentUser?.$id);
 
   if (isUserLoading || (currentUser && (isFollowersLoading || isFollowingsLoading))) {
     return (

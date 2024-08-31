@@ -537,7 +537,7 @@ export async function getTotalFollowing(userId) {
         const response = await databases.listDocuments(
             appwriteConfig.databaseId,
             appwriteConfig.followsCollectionId,
-            [Query.equal('followingId', [userId])]
+            [Query.equal('followerId', [userId])]
         );
         return response.total;
     } catch (error) {
